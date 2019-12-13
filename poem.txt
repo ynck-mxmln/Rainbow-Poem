@@ -4,8 +4,10 @@ purple
 red 
 pink 
 orange
+GOLD
 yellow
 green
 blue
 
 these are the colors of my rainbow
+
