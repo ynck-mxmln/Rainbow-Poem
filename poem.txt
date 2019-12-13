@@ -1,0 +1,9 @@
+
+red 
+pink 
+orange
+yellow
+green
+blue
+
+these are the colors of my rainbow
